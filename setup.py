@@ -66,7 +66,7 @@ setuptools.setup(
     packages=find_packages(where="src"),
     # packages=find_packages(),
     include_package_data=True,
-    install_requires=REQUIRED_PACKAGES,
+    # install_requires=REQUIRED_PACKAGES,
 
     # Metadata to display on PyPI
     author="Mojtaba Heydari",
